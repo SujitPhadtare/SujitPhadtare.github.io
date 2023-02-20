@@ -1,6 +1,3 @@
-[submodule "SimpleTemperatureConvertor"]
-	path = SimpleTemperatureConvertor
-	url = https://github.com/SujitPhadtare/SimpleTemperatureConvertor.git
 [submodule "SimpleCalculator"]
 	path = SimpleCalculator
 	url = https://github.com/SujitPhadtare/SimpleCalculator.git
